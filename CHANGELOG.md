@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/otter-ml/otter-npm/compare/v1.0.1...v1.0.2) (2026-02-19)
+
+
+### Bug Fixes
+
+* use OIDC trusted publishing instead of npm token ([34a583f](https://github.com/otter-ml/otter-npm/commit/34a583faab9b538c6c54de0a45f81ae32bc67c65))
+
 ## [1.0.1](https://github.com/otter-ml/otter-npm/compare/v1.0.0...v1.0.1) (2026-02-19)
 
 
