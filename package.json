@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "🦦 Talk to your data, get ML models",
   "bin": {
-    "otter-ml": "./bin/otter.js"
+    "otter-ml": "bin/otter.js"
   },
   "scripts": {
     "prepublishOnly": "node -e \"console.log('Publishing otter-ml...')\""
@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/otter-ml/otter-npm.git"
+    "url": "git+https://github.com/otter-ml/otter-npm.git"
   },
   "homepage": "https://github.com/otter-ml/otter-npm",
   "engines": {
