@@ -1,6 +1,6 @@
 {
   "name": "otter-ml",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🦦 Talk to your data, get ML models",
   "bin": {
     "otter-ml": "bin/otter.js"

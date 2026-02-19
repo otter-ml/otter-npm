@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/otter-ml/otter-npm/compare/v1.0.0...v1.0.1) (2026-02-19)
+
+
+### Bug Fixes
+
+* normalize package.json paths ([11cce1a](https://github.com/otter-ml/otter-npm/commit/11cce1a6f98f67e3adc21ced03a07ffa52bc3f3c))
+
 # 1.0.0 (2026-02-19)
 
 
