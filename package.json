@@ -1,0 +1,22 @@
+{
+  "name": "otter-ml",
+  "version": "0.1.0-alpha.1",
+  "description": "🦦 Talk to your data, get ML models",
+  "bin": {
+    "otter-ml": "./bin/otter.js"
+  },
+  "scripts": {
+    "prepublishOnly": "node -e \"console.log('Publishing otter-ml...')\""
+  },
+  "keywords": ["machine-learning", "ml", "ai", "data", "cli", "otter"],
+  "author": "otter-ml",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/otter-ml/otter"
+  },
+  "homepage": "https://github.com/otter-ml/otter",
+  "engines": {
+    "node": ">=16"
+  }
+}
