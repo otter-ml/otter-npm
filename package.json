@@ -8,7 +8,14 @@
   "scripts": {
     "prepublishOnly": "node -e \"console.log('Publishing otter-ml...')\""
   },
-  "keywords": ["machine-learning", "ml", "ai", "data", "cli", "otter"],
+  "keywords": [
+    "machine-learning",
+    "ml",
+    "ai",
+    "data",
+    "cli",
+    "otter"
+  ],
   "author": "otter-ml",
   "license": "MIT",
   "repository": {
@@ -18,5 +25,10 @@
   "homepage": "https://github.com/otter-ml/otter",
   "engines": {
     "node": ">=16"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^25.0.3"
   }
 }
